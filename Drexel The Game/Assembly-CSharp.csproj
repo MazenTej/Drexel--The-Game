@@ -62,8 +62,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\GetCoin.cs" />
     <Compile Include="Assets\Scripts\PlatformScroll.cs" />
     <Compile Include="Assets\Scripts\PlayerJump.cs" />
+    <Compile Include="Assets\Scripts\ReachEnd.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/DrexelTheGame - Unity/Drexel The Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>

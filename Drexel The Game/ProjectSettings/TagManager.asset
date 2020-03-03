@@ -7,6 +7,8 @@ TagManager:
   - Platform
   - Hazard
   - ObjectBoundary
+  - Coin
+  - End
   layers:
   - Default
   - TransparentFX

@@ -18,7 +18,7 @@ public class PlatformScroll : MonoBehaviour
         transform.Translate(Vector2.left * Time.deltaTime * speed);
 
     }
-    private void OnCollisionEnter2D(Collision2D collision)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
         // if the platform collides with an object with the tag "ObjectBoundary"
         if (collision.gameObject.CompareTag("ObjectBoundary"))
