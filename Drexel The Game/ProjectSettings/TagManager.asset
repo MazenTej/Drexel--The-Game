@@ -9,6 +9,8 @@ TagManager:
   - ObjectBoundary
   - Coin
   - End
+  - Death
+  - Powerup
   layers:
   - Default
   - TransparentFX
