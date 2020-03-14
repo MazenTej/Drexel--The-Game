@@ -11,6 +11,14 @@ TagManager:
   - End
   - Death
   - Powerup
+  - Deactivate
+  - SpikeText
+  - Activate1
+  - Activate2
+  - FText
+  - Activate3
+  - Activate4
+  - Activate5
   layers:
   - Default
   - TransparentFX

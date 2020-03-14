@@ -112,10 +112,10 @@ MonoBehaviour:
     y: 30
     width: 1536
     height: 731
-  m_MinSize: {x: 683, y: 344}
-  m_MaxSize: {x: 18008, y: 14044}
+  m_MinSize: {x: 681, y: 344}
+  m_MaxSize: {x: 18006, y: 14044}
   vertical: 0
-  controlID: 10123
+  controlID: 556
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -193,7 +193,7 @@ MonoBehaviour:
   m_MinSize: {x: 277, y: 344}
   m_MaxSize: {x: 10002, y: 14044}
   vertical: 1
-  controlID: 10146
+  controlID: 557
 --- !u!114 &9
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -358,7 +358,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
+      m_SelectedIDs: 182f0000
       m_LastClickedID: 0
       m_ExpandedIDs: 66fbffff
       m_RenameOverlay:
@@ -420,9 +420,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -0.37173766, y: 2.772886, z: -2363.4844}
+    m_Target: {x: 10.717868, y: -7.79173, z: -79.48882}
     speed: 2
-    m_Value: {x: -0.37173766, y: 2.772886, z: -2363.4844}
+    m_Value: {x: 10.717868, y: -7.79173, z: -79.48882}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -455,9 +455,9 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
-    m_Target: 48.921177
+    m_Target: 61.56585
     speed: 2
-    m_Value: 48.921177
+    m_Value: 61.56585
   m_Ortho:
     m_Target: 1
     speed: 2
@@ -480,7 +480,7 @@ MonoBehaviour:
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
-  m_SceneVisActive: 1
+  m_SceneVisActive: 0
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
 --- !u!114 &14
@@ -586,20 +586,20 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Artwork
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Artwork
   m_LastFoldersGridSize: 16
   m_LastProjectPath: D:\DrexelTheGame - Unity\Drexel The Game
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d42f0000
-    m_LastClickedID: 12244
-    m_ExpandedIDs: 00000000482d0000e42e0000e82e0000aa30000000ca9a3b
+    m_SelectedIDs: 2a2e0000
+    m_LastClickedID: 11818
+    m_ExpandedIDs: 00000000582d0000002f0000042f0000ce30000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -615,7 +615,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 0}
+      m_ClientGUIView: {fileID: 10}
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -627,7 +627,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000482d0000e42e0000e82e0000aa30000000ca9a3b
+    m_ExpandedIDs: 00000000582d0000002f0000042f0000ce30000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
