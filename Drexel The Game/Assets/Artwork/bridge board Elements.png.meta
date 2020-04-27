@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: f92df3b9fbdf63246a573bac16134dab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1729030835974843659
+    second: bridge board Elements_0
+  - first:
+      213: -7434444372500571460
+    second: bridge board Elements_1
+  - first:
+      213: -5472081787323671763
+    second: bridge board Elements_2
+  - first:
+      213: 6324808513052887542
+    second: bridge board Elements_3
+  - first:
+      213: 4435661548635328242
+    second: bridge board Elements_4
+  - first:
+      213: 4045099285136602183
+    second: bridge board Elements_5
+  - first:
+      213: 8150119998474267258
+    second: bridge board Elements_6
+  - first:
+      213: -2633359826179570133
+    second: bridge board Elements_7
+  - first:
+      213: 3301546103225991136
+    second: bridge board Elements_8
+  - first:
+      213: 4318512809994960282
+    second: bridge board Elements_9
+  - first:
+      213: 292137366306287496
+    second: bridge board Elements_10
+  - first:
+      213: 8080036638980413150
+    second: bridge board Elements_11
+  - first:
+      213: 7334730988573879118
+    second: bridge board Elements_12
+  - first:
+      213: 6537152989190183187
+    second: bridge board Elements_13
+  - first:
+      213: -6610012498067287100
+    second: bridge board Elements_14
+  - first:
+      213: 1916658191097984436
+    second: bridge board Elements_15
+  - first:
+      213: 8174333497532784669
+    second: bridge board Elements_16
+  - first:
+      213: -888709098295870
+    second: bridge board Elements_17
+  - first:
+      213: -5910324552241795532
+    second: bridge board Elements_18
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bridge board Elements_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1568
+        width: 4463
+        height: 1322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d5009d9f3108e0800000000000000
+      internalID: -1729030835974843659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_1
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 2544
+        width: 750
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba93ba8b3c83d890800000000000000
+      internalID: -7434444372500571460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_2
+      rect:
+        serializedVersion: 2
+        x: 4412
+        y: 2384
+        width: 207
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2b10b45b924f04b0800000000000000
+      internalID: -5472081787323671763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_3
+      rect:
+        serializedVersion: 2
+        x: 4662
+        y: 2388
+        width: 566
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f942e415db36c750800000000000000
+      internalID: 6324808513052887542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_4
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 2169
+        width: 1644
+        height: 721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fe84466da2ae8d30800000000000000
+      internalID: 4435661548635328242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_5
+      rect:
+        serializedVersion: 2
+        x: 6369
+        y: 2345
+        width: 207
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 744f0c33e54132830800000000000000
+      internalID: 4045099285136602183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_6
+      rect:
+        serializedVersion: 2
+        x: 6650
+        y: 2349
+        width: 12
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7aadd915fa0b1170800000000000000
+      internalID: 8150119998474267258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_7
+      rect:
+        serializedVersion: 2
+        x: 6662
+        y: 2259
+        width: 86
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2648c2b03d647bd0800000000000000
+      internalID: -2633359826179570133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_8
+      rect:
+        serializedVersion: 2
+        x: 6850
+        y: 1927
+        width: 1150
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ef3c5440b271dd20800000000000000
+      internalID: 3301546103225991136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_9
+      rect:
+        serializedVersion: 2
+        x: 4822
+        y: 2291
+        width: 59
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d39bd25807eeb30800000000000000
+      internalID: 4318512809994960282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_10
+      rect:
+        serializedVersion: 2
+        x: 6705
+        y: 2056
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fed480361ed0400800000000000000
+      internalID: 292137366306287496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_11
+      rect:
+        serializedVersion: 2
+        x: 4900
+        y: 1705
+        width: 2012
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed69196638e022070800000000000000
+      internalID: 8080036638980413150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_12
+      rect:
+        serializedVersion: 2
+        x: 5135
+        y: 1279
+        width: 1890
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4beef819f23ac560800000000000000
+      internalID: 7334730988573879118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 3438
+        height: 1181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31950132202a8ba50800000000000000
+      internalID: 6537152989190183187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_14
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 721
+        width: 750
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c39ec387a48444a0800000000000000
+      internalID: -6610012498067287100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_15
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 721
+        width: 250
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5fc3c4876599a10800000000000000
+      internalID: 1916658191097984436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_16
+      rect:
+        serializedVersion: 2
+        x: 6018
+        y: 885
+        width: 1461
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d10a40ca101117170800000000000000
+      internalID: 8174333497532784669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_17
+      rect:
+        serializedVersion: 2
+        x: 3537
+        y: 0
+        width: 4463
+        height: 525
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cd23e949b7dcfff0800000000000000
+      internalID: -888709098295870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bridge board Elements_18
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 0
+        width: 2755
+        height: 1231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43eab5c422f4afda0800000000000000
+      internalID: -5910324552241795532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
