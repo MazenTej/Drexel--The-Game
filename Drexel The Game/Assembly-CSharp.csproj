@@ -57,6 +57,7 @@
   <ItemGroup>
      <Compile Include="Assets\Scripts\GetCoin.cs" />
      <Compile Include="Assets\Scripts\GetPowerup.cs" />
+     <Compile Include="Assets\Scripts\MainCamUp.cs" />
      <Compile Include="Assets\Scripts\OnDeath.cs" />
      <Compile Include="Assets\Scripts\PlatformScroll.cs" />
      <Compile Include="Assets\Scripts\PlayerJump.cs" />
