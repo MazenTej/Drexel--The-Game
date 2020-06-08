@@ -26,6 +26,10 @@ public class PlatformScroll : MonoBehaviour
             // destroy Platform
             Destroy(gameObject);
         }
+        if (collision.gameObject.CompareTag("Speed1"))
+        {
+            speed = -6;
+        }
     }
 
 }

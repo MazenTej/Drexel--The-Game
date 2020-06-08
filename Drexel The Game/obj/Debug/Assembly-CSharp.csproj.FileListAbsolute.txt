@@ -141,7 +141,6 @@ D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.CrashReporti
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.DirectorModule.dll
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.dll
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.DSPGraphModule.dll
-D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.GridModule.dll
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
@@ -219,7 +218,6 @@ D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.CoreModule.x
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.DSPGraphModule.xml
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.DirectorModule.xml
-D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.GridModule.xml
 D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
@@ -269,3 +267,10 @@ D:\DrexelTheGame - Unity\Drexel The Game\obj\Debug\Assembly-CSharp.csproj.CoreCo
 D:\DrexelTheGame - Unity\Drexel The Game\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 D:\DrexelTheGame - Unity\Drexel The Game\obj\Debug\Assembly-CSharp.dll
 D:\DrexelTheGame - Unity\Drexel The Game\obj\Debug\Assembly-CSharp.pdb
+D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.SubsystemsModule.dll
+D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\Unity.CompilationPipeline.Common.dll
+D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEditor.TestRunner.dll
+D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.TestRunner.dll
+D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.SubsystemsModule.xml
+D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEditor.TestRunner.pdb
+D:\DrexelTheGame - Unity\Drexel The Game\Temp\bin\Debug\UnityEngine.TestRunner.pdb
