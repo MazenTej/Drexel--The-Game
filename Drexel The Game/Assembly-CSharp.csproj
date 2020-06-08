@@ -62,8 +62,10 @@
      <Compile Include="Assets\Scripts\OnDeath.cs" />
      <Compile Include="Assets\Scripts\PlatformScroll.cs" />
      <Compile Include="Assets\Scripts\PlayerJump.cs" />
+     <Compile Include="Assets\Scripts\PlayerScroll.cs" />
      <Compile Include="Assets\Scripts\ReachEnd.cs" />
      <Compile Include="Assets\Scripts\Restart.cs" />
+     <Compile Include="Assets\Scripts\Tracking.cs" />
      <Compile Include="Assets\Scripts\Tutorial Scripts\SpriteTextScript.cs" />
  <Reference Include="Unity.Timeline.Editor">
  <HintPath>D:/DrexelTheGame - Unity/Drexel The Game/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>

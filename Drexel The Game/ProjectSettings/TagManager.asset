@@ -19,6 +19,8 @@ TagManager:
   - Activate3
   - Activate4
   - Activate5
+  - Speed1
+  - Speed2
   layers:
   - Default
   - TransparentFX
