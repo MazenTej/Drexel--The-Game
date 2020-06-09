@@ -11,3 +11,4 @@
 # The game can also be exported as a .exe file for testing on OSs like MacOS, Windows, and Linux.
 # The game should not be converted to another game editing software due to the script's dependencies on Unity components.
 # The game is created in a Unity 2D project setting, but 3D objects and components are usable in the development of the game.
+# Manuals are in Wiki
