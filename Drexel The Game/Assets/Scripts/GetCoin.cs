@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-
+//Name of File: GetCoin
+// Purpose: To create the coin pickup and counter system
+//Version: Up to Date as of 6/9/2020
+//Author: Caraton Dixon (cd3258)
+//Dependencies: Unity 3D Editor Components
 public class GetCoin : MonoBehaviour
 {
     public int coins = 0;

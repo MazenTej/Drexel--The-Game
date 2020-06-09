@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+//Name of File: Restart
+// Purpose: To restart the game from the very beginning
+//Version: Up to Date as of 6/9/2020
+//Author: Caraton Dixon (cd3258)
+//Dependencies: Unity 3D Editor Components
 public class Restart : MonoBehaviour
 {
     public string sceneName;

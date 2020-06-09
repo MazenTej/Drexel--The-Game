@@ -1,7 +1,11 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//Name of File: PlayerJump
+// Purpose: To establish all player controls
+//Version: Up to Date as of 6/9/2020
+//Author: Caraton Dixon (cd3258)
+//Dependencies: Unity 3D Editor Components
 public class PlayerJump : MonoBehaviour
 {
     public Rigidbody2D playerRigi;

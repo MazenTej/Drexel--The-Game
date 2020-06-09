@@ -2,7 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+//Name of File: OnDeath
+// Purpose: To switch scenes to the death scene upon player death (with a timer)
+//Version: Up to Date as of 6/9/2020
+//Author: Caraton Dixon (cd3258)
+//Dependencies: Unity 3D Editor Components
 public class OnDeath : MonoBehaviour
 {
     public string sceneName;

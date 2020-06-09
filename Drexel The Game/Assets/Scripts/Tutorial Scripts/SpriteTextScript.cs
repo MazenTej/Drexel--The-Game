@@ -2,6 +2,11 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+//Name of File: SpriteTextScript
+// Purpose: To activate text objects in the various timeslots in the tutorial level
+//Version: Up to Date as of 6/9/2020
+//Author: Caraton Dixon (cd3258)
+//Dependencies: Unity 3D Editor Components
 
 public class SpriteTextScript : MonoBehaviour
 {

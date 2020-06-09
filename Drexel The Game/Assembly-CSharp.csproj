@@ -55,7 +55,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\Example.cs" />
      <Compile Include="Assets\Scripts\GetCoin.cs" />
      <Compile Include="Assets\Scripts\GetPowerup.cs" />
      <Compile Include="Assets\Scripts\MainCamUp.cs" />
